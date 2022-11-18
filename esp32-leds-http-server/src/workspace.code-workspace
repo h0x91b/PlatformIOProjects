@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "svetozvuk",
+			"path": "../../svetozvuk"
+		},
+		{
+			"name": "esp32-hello",
+			"path": "../../esp32-hello"
+		},
+		{
+			"name": "esp32-cam",
+			"path": "../../esp32-cam"
+		},
+		{
+			"name": "esp32-leds-http-server",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
